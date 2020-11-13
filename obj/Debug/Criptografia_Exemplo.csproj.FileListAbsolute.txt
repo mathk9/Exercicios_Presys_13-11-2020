@@ -1,0 +1,26 @@
+C:\Users\andre.cini\Documents\Visual Studio 2008\Projects\Criptografia_Exemplo\Criptografia_Exemplo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\andre.cini\Documents\Visual Studio 2008\Projects\Criptografia_Exemplo\Criptografia_Exemplo\obj\Debug\Criptografia_Exemplo.Form1.resources
+C:\Users\andre.cini\Documents\Visual Studio 2008\Projects\Criptografia_Exemplo\Criptografia_Exemplo\obj\Debug\Criptografia_Exemplo.Properties.Resources.resources
+C:\Users\andre.cini\Documents\Visual Studio 2008\Projects\Criptografia_Exemplo\Criptografia_Exemplo\obj\Debug\Criptografia_Exemplo.csproj.GenerateResource.Cache
+C:\Users\andre.cini\Documents\Visual Studio 2008\Projects\Criptografia_Exemplo\Criptografia_Exemplo\bin\Debug\Criptografia_Exemplo.exe
+C:\Users\andre.cini\Documents\Visual Studio 2008\Projects\Criptografia_Exemplo\Criptografia_Exemplo\bin\Debug\Criptografia_Exemplo.pdb
+C:\Users\andre.cini\Documents\Visual Studio 2008\Projects\Criptografia_Exemplo\Criptografia_Exemplo\obj\Debug\Criptografia_Exemplo.exe
+C:\Users\andre.cini\Documents\Visual Studio 2008\Projects\Criptografia_Exemplo\Criptografia_Exemplo\obj\Debug\Criptografia_Exemplo.pdb
+C:\Users\andre.cini\Documents\Visual Studio 2008\Projects\Criptografia_Exemplo\Criptografia_Exemplo\obj\Debug\Criptografia_Exemplo.Threads.resources
+C:\Users\andre.cini\Documents\Visual Studio 2008\Projects\Criptografia_Exemplo\Criptografia_Exemplo\obj\Debug\Criptografia_Exemplo.UsoDelegate.resources
+C:\Users\andre.cini\Documents\Visual Studio 2008\Projects\Criptografia_Exemplo\Criptografia_Exemplo\obj\Debug\Criptografia_Exemplo.UsoInterfaces.resources
+C:\Users\andre.cini\Documents\Visual Studio 2008\Projects\Criptografia_Exemplo\Criptografia_Exemplo\obj\Debug\Criptografia_Exemplo.Teste1.resources
+C:\Users\andre.cini\Documents\Visual Studio 2008\Projects\Criptografia_Exemplo\Criptografia_Exemplo\obj\Debug\Criptografia_Exemplo.Teste2.resources
+C:\Users\andre.cini\Documents\Visual Studio 2008\Projects\Criptografia_Exemplo\Criptografia_Exemplo\obj\Debug\Criptografia_Exemplo.ExpressoesLambdas.resources
+C:\Users\andre.cini\Documents\Visual Studio 2008\Projects\Criptografia_Exemplo\Criptografia_Exemplo\obj\Debug\Criptografia_Exemplo.UseControl.resources
+C:\Users\andre.cini\Documents\Visual Studio 2008\Projects\Criptografia_Exemplo\Criptografia_Exemplo\obj\Debug\Criptografia_Exemplo.userControlState.resources
+C:\Users\andre.cini\Documents\Visual Studio 2008\Projects\Criptografia_Exemplo\Criptografia_Exemplo\obj\Debug\Criptografia_Exemplo.UsoDLL.resources
+C:\Users\andre.cini\Documents\Visual Studio 2008\Projects\Criptografia_Exemplo\Criptografia_Exemplo\obj\Debug\Criptografia_Exemplo.Serializacao.resources
+C:\Users\andre.cini\Documents\Visual Studio 2008\Projects\Criptografia_Exemplo\Criptografia_Exemplo\obj\Debug\Criptografia_Exemplo.Cadastro.resources
+C:\Users\andre.cini\Documents\Visual Studio 2008\Projects\Criptografia_Exemplo\Criptografia_Exemplo\obj\Debug\Criptografia_Exemplo.SQL.resources
+C:\Users\andre.cini\Documents\Visual Studio 2008\Projects\Criptografia_Exemplo\Criptografia_Exemplo\bin\Debug\Criptografia_Exemplo.exe.config
+C:\Users\andre.cini\Documents\Visual Studio 2008\Projects\Criptografia_Exemplo\Criptografia_Exemplo\obj\Debug\Criptografia_Exemplo.TrocarSenha.resources
+C:\Users\andre.cini\Documents\Visual Studio 2008\Projects\Criptografia_Exemplo\Criptografia_Exemplo\bin\Debug\BANCO DE DADOS\ProjetoSQL.mdf
+C:\Users\andre.cini\Documents\Visual Studio 2008\Projects\Criptografia_Exemplo\Criptografia_Exemplo\bin\Debug\BANCO DE DADOS\ProjetoSQL_log.ldf
+C:\Users\andre.cini\Documents\Visual Studio 2008\Projects\Criptografia_Exemplo\Criptografia_Exemplo\obj\Debug\Criptografia_Exemplo.ColecoesGenericas.resources
+C:\Users\andre.cini\Documents\Visual Studio 2008\Projects\Criptografia_Exemplo\Criptografia_Exemplo\obj\Debug\Criptografia_Exemplo.DesignPattern.resources
